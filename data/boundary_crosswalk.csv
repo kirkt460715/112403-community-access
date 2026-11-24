@@ -1,0 +1,5 @@
+from_area,from_version,to_area,to_version,overlap_fraction
+A1,B1,A3,B2,0.25
+A1,B1,A4,B2,0.75
+A2,B1,A3,B2,0.65
+A2,B1,A4,B2,0.35

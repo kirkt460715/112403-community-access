@@ -12,6 +12,25 @@
       "key": "area_id"
     },
     {
+      "file": "boundary_crosswalk.csv",
+      "columns": [
+        "from_area",
+        "from_version",
+        "to_area",
+        "to_version",
+        "overlap_fraction"
+      ]
+    },
+    {
+      "file": "events.csv",
+      "columns": [
+        "event_id",
+        "service_date",
+        "topic"
+      ],
+      "key": "event_id"
+    },
+    {
       "file": "venues.csv",
       "columns": [
         "venue_id",
