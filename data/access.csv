@@ -1,0 +1,5 @@
+area_id,period,transport_mode,travel_min,service_source
+A1,2026Q3,walk,15,synthetic_route
+A2,2026Q3,group_bus,45,synthetic_route
+A3,2026Q4,group_bus,52,synthetic_route
+A4,2026Q4,public_bus,68,synthetic_route

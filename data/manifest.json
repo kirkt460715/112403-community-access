@@ -1,0 +1,59 @@
+{
+  "tables": [
+    {
+      "file": "areas.csv",
+      "columns": [
+        "area_id",
+        "boundary_version",
+        "area_label",
+        "valid_from",
+        "valid_to"
+      ],
+      "key": "area_id"
+    },
+    {
+      "file": "venues.csv",
+      "columns": [
+        "venue_id",
+        "area_id",
+        "service_date",
+        "capacity"
+      ],
+      "key": "venue_id"
+    },
+    {
+      "file": "participation.csv",
+      "columns": [
+        "record_id",
+        "group_token",
+        "area_id",
+        "event_id",
+        "stage",
+        "headcount"
+      ],
+      "key": "record_id"
+    },
+    {
+      "file": "access.csv",
+      "columns": [
+        "area_id",
+        "period",
+        "transport_mode",
+        "travel_min",
+        "service_source"
+      ],
+      "key": "area_id"
+    },
+    {
+      "file": "surveys.csv",
+      "columns": [
+        "area_id",
+        "event_id",
+        "respondents",
+        "interested_count",
+        "form_version"
+      ],
+      "key": "area_id"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+record_id,group_token,area_id,event_id,stage,headcount
+P1,G1,A1,E1,invited,12
+P2,G1,A1,E1,attended,9
+P3,G2,A2,E2,interested,8
+P4,G2,A2,E2,registered,6
+P5,G2,A2,E2,attended,3
+P6,G3,A3,E3,attended,10
+P7,G4,A4,E4,attended,7
