@@ -34,6 +34,7 @@
       "file": "venues.csv",
       "columns": [
         "venue_id",
+        "event_id",
         "area_id",
         "service_date",
         "capacity"
