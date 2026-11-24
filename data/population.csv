@@ -1,0 +1,5 @@
+area_id,boundary_version,period,group_token,residents,source_status
+A1,B1,2026Q3,all,120,estimated
+A2,B1,2026Q3,all,240,confirmed
+A3,B2,2026Q4,all,150,estimated
+A4,B2,2026Q4,all,190,confirmed

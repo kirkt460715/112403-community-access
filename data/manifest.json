@@ -22,6 +22,18 @@
       ]
     },
     {
+      "file": "population.csv",
+      "columns": [
+        "area_id",
+        "boundary_version",
+        "period",
+        "group_token",
+        "residents",
+        "source_status"
+      ],
+      "key": "area_id"
+    },
+    {
       "file": "events.csv",
       "columns": [
         "event_id",
